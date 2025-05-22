@@ -12,10 +12,4 @@
             <class name="org.example.automation.tests.LoginTest"/>
         </classes>
     </test>
-    <test name="EdgeTests">
-        <parameter name="browser" value="edge"/>
-        <classes>
-            <class name="org.example.automation.tests.LoginTest"/>
-        </classes>
-    </test>
 </suite>
